@@ -4,7 +4,9 @@ using namespace std;
 
 int main()
 {
-    int a, b, max, min;
+
+
+    double a, b, max, min;
    cout << "Enter A and B: ";
    cin>> a >> b;
    max = a;
